@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login App API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="user_login">User Login</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="lbl_create_account">Create Account</string>
+    <string name="lbl_confirm_password">Confirm Password</string>
+    <string name="lbl_register">Register</string>
+    <string name="lbl_back_to_login">Back to Login</string>
+    <string name="name">Enter Name</string>
+</resources>
